@@ -4,3 +4,6 @@
 [submodule "RagCodeFlow"]
 	path = RagCodeFlow
 	url = git@github.com:D-Vspec/RagCodeFlow.git
+[submodule "wt"]
+	path = wt
+	url = git@github.com:mahendra785/wt.git
