@@ -1,3 +1,6 @@
 [submodule "cgitrepo"]
 	path = cgitrepo
 	url = git@github.com:qwerty-dvorak/cgitrepo.git
+[submodule "RagCodeFlow"]
+	path = RagCodeFlow
+	url = git@github.com:D-Vspec/RagCodeFlow.git
