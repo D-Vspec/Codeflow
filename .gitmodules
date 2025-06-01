@@ -1,0 +1,9 @@
+[submodule "RAG"]
+	path = RAG
+	url = git@github.com:D-Vspec/RagCodeFlow.git
+[submodule "CloningAndGraphing"]
+	path = CloningAndGraphing
+	url = https://github.com/qwerty-dvorak/cgitrepo.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:mahendra785/wt.git
