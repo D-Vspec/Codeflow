@@ -1,5 +1,5 @@
 [submodule "cgitrepo"]
-	path = cgitrepo
+	path = CloningAndGraphing/cgitrepo
 	url = git@github.com:qwerty-dvorak/cgitrepo.git
 [submodule "RagCodeFlow"]
 	path = RagCodeFlow
